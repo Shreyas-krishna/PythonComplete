@@ -9,7 +9,7 @@ Welcome to my personal repository where I document my journey and progress in le
 
 ## Notebooks
 
-Each notebook in the `PythonComplete/` folder is organized by topic and contains:
+Each notebook in the `PythonComplete/` sub-folders is organized by topic and contains:
 
 - **Concepts**: Explanation of the Python concepts covered.
 - **Code Examples**: Python code snippets and exercises.
